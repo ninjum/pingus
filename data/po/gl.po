@@ -1118,7 +1118,7 @@ msgid ""
 "rest. "
 msgstr ""
 "O traballo en equipo é a maneira para chegar a saída desta vez. Non tes suficientes "
-"paracaidas para chegar á saída, así que só tes que enviar algúns e facer"
+"paracaidas para chegar á saída, así que só tes que enviar algúns e facer "
 "que preparen o camiño para o resto. "
 
 #: data/levels/tutorial/snow19-grumbel.pingus:5
@@ -1801,7 +1801,7 @@ msgid ""
 "Almost all penguins must survive."
 msgstr ""
 "Os pingüíns detivéronse e quedaron indecisos. ¿O que era real e o que non? A "
-"chama lanzouse desde arriba e unha guillotina brillou ao lonxe. Case todos "
+"lapa lanzouse desde arriba e unha guillotina brillou ao lonxe. Case todos "
 "os pingüíns deben sobrevivir."
 
 #: data/levels/mysteryisland/lavapit3.pingus:7
